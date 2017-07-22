@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Acme', sans-serif;
+}
+
+.pokemon-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  text-align: center;
+  border: 2px solid;
+  border-radius: 5px;
+  height: 200px;
+  margin: 10px;
+  background-color: #B9F87A;
+}*
